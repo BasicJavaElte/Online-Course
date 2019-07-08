@@ -1,5 +1,7 @@
 # Online-Course
 
+![image](https://media.giphy.com/media/7yxKlEZn6GfhS/giphy.gif)
+
 Welcome to the preparatory online course of Java Programming, here in this repository we will store all the code material for you yo check out at anytime.
 
 You are expected to get theoretical information on the MOOC and practical content in this page. If you need more examples, don't forget to suggest using the official channels.
